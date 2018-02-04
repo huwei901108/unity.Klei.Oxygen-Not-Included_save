@@ -1,0 +1,22 @@
+strings:
+  INSTALL_TIMESTAMP: 636525848080044900
+  SelectedLanguageType: Preinstalled
+  SelectedLanguageCode: zh_klei
+  SaveFilenameKey/: /Users/lina/Library/Application Support/unity.Klei.Oxygen Not Included/save_files/窝棚.sav
+ints:
+  LanguageConfirmationVersion: 2
+  SESSION_ID: 8
+  PatchNotesVersion: 6
+  UseWorldSeedKey: 0
+  WorldSeedKey: 985515271
+  LayoutSeedKey: 985515271
+  TerrainSeedKey: 985515271
+  NoiseSeedKey: 985515271
+  GAME_ID: 0
+  NextUniqueID: 18347
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1

@@ -1,0 +1,22 @@
+strings:
+  INSTALL_TIMESTAMP: 636520591699684501
+  SelectedLanguageType: Preinstalled
+  SelectedLanguageCode: zh_klei
+  SaveFilenameKey/: C:\Users\huwei_000\Documents\Klei/OxygenNotIncluded\save_files/nice fool heading oil 180202.00.sav
+ints:
+  SESSION_ID: 21
+  LanguageConfirmationVersion: 2
+  PatchNotesVersion: 6
+  UseWorldSeedKey: 0
+  WorldSeedKey: 1849005214
+  LayoutSeedKey: 1849005214
+  TerrainSeedKey: 1849005214
+  NoiseSeedKey: 1849005214
+  GAME_ID: 1
+  NextUniqueID: 182460
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1
