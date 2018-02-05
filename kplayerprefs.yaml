@@ -4,7 +4,7 @@ strings:
   SelectedLanguageCode: zh_klei
   SaveFilenameKey/: C:\Users\huwei_000\Documents\Klei/OxygenNotIncluded\save_files/superFool_oilGenerator.sav
 ints:
-  SESSION_ID: 26
+  SESSION_ID: 27
   LanguageConfirmationVersion: 2
   PatchNotesVersion: 6
   UseWorldSeedKey: 0
@@ -13,7 +13,7 @@ ints:
   TerrainSeedKey: 1849005214
   NoiseSeedKey: 1849005214
   GAME_ID: 1
-  NextUniqueID: 339458
+  NextUniqueID: 375548
 floats:
   Volume_SFX: 1
   Volume_Music: 1
