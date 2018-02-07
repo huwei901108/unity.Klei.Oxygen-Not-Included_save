@@ -2,9 +2,9 @@ strings:
   INSTALL_TIMESTAMP: 636520591699684501
   SelectedLanguageType: Preinstalled
   SelectedLanguageCode: zh_klei
-  SaveFilenameKey/: C:\Users\huwei_000\Documents\Klei/OxygenNotIncluded\save_files/fool food and bottle water.sav
+  SaveFilenameKey/: C:\Users\huwei_000\Documents\Klei/OxygenNotIncluded\save_files/super fool food water temp issue.sav
 ints:
-  SESSION_ID: 28
+  SESSION_ID: 29
   LanguageConfirmationVersion: 2
   PatchNotesVersion: 6
   UseWorldSeedKey: 0
@@ -13,7 +13,7 @@ ints:
   TerrainSeedKey: 1849005214
   NoiseSeedKey: 1849005214
   GAME_ID: 1
-  NextUniqueID: 393846
+  NextUniqueID: 426138
 floats:
   Volume_SFX: 1
   Volume_Music: 1
